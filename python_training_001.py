@@ -37,7 +37,7 @@ g.map(plt.hist, 'Principal', bins=bins)
 
 # preprocessing phase
 df['dayofweek'] = df['effective_date'].dt.dayofweek
-df['weekend'] = df['dayofweek'].apply(lambda x:1 if (x­>3) else 0)
+df['weekend'] = df['dayofweek'].apply(lambda x:1 if ('x > 3') else 0)
 
 df.head()
 
@@ -69,7 +69,7 @@ x_train.shape
 
 y_train.shape
 
-x_test_shape
+x_test.shape
 
 y_test.shape
 
