@@ -2,7 +2,7 @@
 A personal repository to store, manage, and showcase all my personal projects and works!
 
 **About**
-This workspace contains a collection of my personal projects, experiments, and learning exercises. Feel free to explore or use this as a reference for your own work!
+- This workspace contains a collection of my personal projects, experiments, and learning exercises. Feel free to explore or use this as a reference for your own work!
 
 **Projects**
 - [API Projects Folder]: A collection of scripts I’ve crafted while exploring API integrations.
