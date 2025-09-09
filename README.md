@@ -4,7 +4,7 @@ A personal repository to store, manage, and showcase all my personal projects an
 **About**
 This workspace contains a collection of my personal projects, experiments, and learning exercises. Feel free to explore or use this as a reference for your own work!
 
-Projects
+**Projects**
 [API Projects Folder]: A collection of scripts I’ve crafted while exploring API integrations.
 [Analytics Project]: A set of scripts featuring advanced analyses, such as RFM, Propensity Score, and NLP, among others.
 [Efficiency Projects]: Scripts designed to streamline my daily data tasks and save time, reflecting my knack for cutting corners due to a touch of laziness.
